@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/nimdaelytstfn/static/css/main.51610b50.chunk.css",
+    "main.js": "/nimdaelytstfn/static/js/main.99d7398a.chunk.js",
+    "runtime-main.js": "/nimdaelytstfn/static/js/runtime-main.eb838c02.js",
+    "static/css/2.027076e1.chunk.css": "/nimdaelytstfn/static/css/2.027076e1.chunk.css",
+    "static/js/2.fb56cb6e.chunk.js": "/nimdaelytstfn/static/js/2.fb56cb6e.chunk.js",
+    "index.html": "/nimdaelytstfn/index.html",
+    "precache-manifest.4815fe83eedb67c07dce557ad59008f0.js": "/nimdaelytstfn/precache-manifest.4815fe83eedb67c07dce557ad59008f0.js",
+    "service-worker.js": "/nimdaelytstfn/service-worker.js",
+    "static/js/2.fb56cb6e.chunk.js.LICENSE.txt": "/nimdaelytstfn/static/js/2.fb56cb6e.chunk.js.LICENSE.txt",
+    "static/js/main.99d7398a.chunk.js.LICENSE.txt": "/nimdaelytstfn/static/js/main.99d7398a.chunk.js.LICENSE.txt",
+    "static/media/auth_logo.png": "/nimdaelytstfn/static/media/auth_logo.a84d4fbf.png",
+    "static/media/coin_img.png": "/nimdaelytstfn/static/media/coin_img.230c68c0.png",
+    "static/media/sidebar-1.jpg": "/nimdaelytstfn/static/media/sidebar-1.8e9f0a3c.jpg",
+    "static/media/sidebar-2.jpg": "/nimdaelytstfn/static/media/sidebar-2.310509c9.jpg",
+    "static/media/sidebar-3.jpg": "/nimdaelytstfn/static/media/sidebar-3.25031690.jpg",
+    "static/media/sidebar-4.jpg": "/nimdaelytstfn/static/media/sidebar-4.fc9cb053.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb838c02.js",
+    "static/css/2.027076e1.chunk.css",
+    "static/js/2.fb56cb6e.chunk.js",
+    "static/css/main.51610b50.chunk.css",
+    "static/js/main.99d7398a.chunk.js"
+  ]
+}

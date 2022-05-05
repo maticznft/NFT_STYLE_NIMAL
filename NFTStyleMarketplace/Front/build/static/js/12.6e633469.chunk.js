@@ -1,0 +1,1 @@
+(this.webpackJsonpnftstyle=this.webpackJsonpnftstyle||[]).push([[12,81],{1427:function(s,t){}}]);
